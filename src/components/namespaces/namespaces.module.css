@@ -1,0 +1,10 @@
+.namespaces {
+}
+
+.namespaces img {
+  margin-top: 10px;
+  background-color: #abb2bf;
+  border-radius: 10px;
+  cursor: pointer;
+  width: 45px;
+}
